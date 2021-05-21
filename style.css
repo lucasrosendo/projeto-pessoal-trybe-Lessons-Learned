@@ -10,6 +10,7 @@ body {
   font-size: 28px;
   height: 80px;
   font-family: "Lobster", cursive;
+  top: 0;
 }
 #titulo {
   margin: 0;
@@ -43,11 +44,14 @@ body {
 #artigo {
   text-align: justify;
   background-color: #d6dbdf;
+  font-size: 23px;
+  line-height: 30px;
 }
 #artigo2 {
   width: 65%;
   margin-right: 15px;
   background-color: #d6dbdf;
+  font-size: 23px;
 }
 .titile-section1 {
   padding: 15px;
@@ -65,9 +69,10 @@ body {
 .lado-direito {
   float: right;
   width: 29%;
-  height: 300px;
+  height: 350px;
   text-align: justify;
   background-color: #d6dbdf;
+  font-size: 23px;
 }
 #licoes_aprendidas {
   padding: 25px;
@@ -78,7 +83,6 @@ body {
   width: 100%;
   margin-left: 25px;
 }
-
 #rodape img {
   width: 40px;
   height: 40px;
