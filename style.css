@@ -5,7 +5,7 @@ body {
 #cabecalho {
   position: fixed;
   width: 100%;
-  background-color: #1abc9c;
+  background-color: rgb(26, 188, 156);
   text-align: center;
   font-size: 28px;
   height: 80px;
@@ -16,7 +16,7 @@ body {
   margin: 0;
 }
 #navegacao {
-  background-color: #34495e;
+  background-color: rgb(52, 73, 94);
   padding: 10px;
   width: 100%;
   margin-top: 80px;
@@ -31,7 +31,7 @@ body {
   padding: 10px;
 }
 #navegacao a:hover {
-  background-color: #1abc9c;
+  background-color: rgb(26, 188, 156);
 }
 #content {
   width: 100%;
@@ -43,14 +43,14 @@ body {
 }
 #artigo {
   text-align: justify;
-  background-color: #d6dbdf;
+  background-color: rgb(214, 219, 223);
   font-size: 23px;
   line-height: 30px;
 }
 #artigo2 {
   width: 65%;
   margin-right: 15px;
-  background-color: #d6dbdf;
+  background-color: rgb(214, 219, 223);
   font-size: 23px;
 }
 .titile-section1 {
@@ -71,7 +71,7 @@ body {
   width: 29%;
   height: 350px;
   text-align: justify;
-  background-color: #d6dbdf;
+  background-color: rgb(214, 219, 223);
   font-size: 23px;
 }
 #licoes_aprendidas {
